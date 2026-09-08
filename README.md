@@ -46,7 +46,8 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-<img width="1631" height="762" alt="image" src="https://github.com/user-attachments/assets/c9a34e4b-e3dc-457c-bc6d-5d31854add66" />
+<img width="1917" height="962" alt="image" src="https://github.com/user-attachments/assets/17cdc394-4ac0-4b09-9273-99556cf749dc" />
+
 
 
 ### Name:Branzen.B.V
